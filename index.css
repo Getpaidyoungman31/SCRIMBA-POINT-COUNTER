@@ -1,0 +1,50 @@
+body {
+    background-image: url("itachi.jpg");
+    background-size: cover;
+    font-family: orbitron 
+    font-weight: bold;
+    text-align: center;
+    color: azure;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: whitesmoke;
+    border-color: black;
+    font-family: orbitron; 
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: azure;
+}
+
+button {
+    border: 3 px dotted white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #0A3981;
+    color: white;
+}
+
+#save-btn {
+    background: crimson;
+}
+
+.container {
+    border: 2px solid whitesmoke;
+    max-width: 80%;
+    margin: auto;
+}
